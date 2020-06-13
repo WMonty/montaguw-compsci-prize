@@ -1,7 +1,8 @@
 {
     "name": "Montagu.W CompSci Prize",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "animation": "*"
     },
     "description": "",
     "files": [
